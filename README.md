@@ -13,9 +13,9 @@
   🌐 Check out my portfolio site: <a href="https://arnobbokshi.vercel.app/">arnobbokshi.vercel.app</a>
 </p>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=arnob1001&color=blueviolet&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Arnob616&color=blueviolet&style=flat" alt="Profile Views" />
   <a href="https://github.com/arnob1001">
-    <img src="https://img.shields.io/github/followers/arnob1001?label=Follow&style=social" alt="GitHub Followers" />
+    <img src="https://img.shields.io/github/followers/Arnob616?label=Follow&style=social" alt="GitHub Followers" />
   </a>
 </p>
 
