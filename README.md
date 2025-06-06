@@ -1,4 +1,4 @@
-<h1 align="center">🚀 Arnob Bokshi</h1>
+<h1 align="center">🚀 Hi there </h1>
 
 <h3 align="center">
   Competitive Programmer | Software Developer | Tech Enthusiast
