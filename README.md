@@ -110,8 +110,8 @@ public:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=arnob1001&show_icons=true&theme=radical&include_all_commits=true" alt="GitHub Stats" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=arnob1001&theme=radical" alt="GitHub Streak" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=arnob616&show_icons=true&theme=radical&include_all_commits=true" alt="GitHub Stats" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=arnob616&theme=radical" alt="GitHub Streak" />
 </p>
 
 <p align="center">
