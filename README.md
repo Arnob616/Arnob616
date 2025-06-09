@@ -13,6 +13,16 @@
   🌐 Check out my portfolio site: <a href="https://arnobbokshi.vercel.app/">arnobbokshi.vercel.app</a>
 </p>
 <p align="center">
+  After successfully completing my capstone project <strong>CivicSafe</strong> — an extension of emergency services in Bangladesh, developed entirely by myself — I am now working on my dream project: a transformative platform for individuals facing emotional challenges and attention-seeking tendencies.
+</p>
+<p align="center">
+  The core idea is to gently help users limit their need for external validation within specific timeframes. Over time, the urge to seek constant attention will gradually diminish, ultimately allowing them to break free from the repetitive cycle of emotional illusions and dependency.
+</p>
+<p align="center">
+  <strong>Fun Fact:</strong> This project is designed to be engaging and impactful! It will be available as both a web and mobile application, fully powered by cutting-edge AI technology.
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=Arnob616&color=blueviolet&style=flat" alt="Profile Views" />
   <a href="https://github.com/arnob1001">
     <img src="https://img.shields.io/github/followers/Arnob616?label=Follow&style=social" alt="GitHub Followers" />
