@@ -11,7 +11,7 @@
 ```
 <h3>Current Focus</h3>
 <p>
-  I solve coding problems on a regular basis, and I love building things using my coding skills. Anyway, 
+  I solve coding problems on a regular basis mostly on leetcode and gfg, and I love building things using my coding skills. Anyway, 
   after the successful completion of my capstone project <strong>CivicSafe</strong> — an extension of emergency services in Bangladesh, developed 
   entirely by myself — I am now working on my dream project: a transformative platform for individuals facing emotional 
   challenges and attention-seeking tendencies. The core idea is to gently help users limit their need for external validation 
