@@ -9,6 +9,7 @@
  Solved 700+ problems on various coding platforms and proficient in C++, JavaScript, debugging, and Git.
  Passionate about problem-solving and learning new technologies.
 ```
+<h3>Current Focus</h3>
 <p>
 After successfully completing my capstone project CivicSafe an extension of emergency services in Bangladesh, developed
 entirely by myself — I am now working on my dream project: a transformative platform for individuals facing emotional
