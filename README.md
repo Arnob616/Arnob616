@@ -10,8 +10,13 @@
  Passionate about problem-solving and learning new technologies.
 ```
 ```
-After successfully completing my capstone project CivicSafe an extension of emergency services in Bangladesh, developed entirely by myself — I am now working on my dream project: a transformative platform for individuals facing emotional challenges and attention-seeking tendencies. The core idea is to gently help users limit their need for external validation within specific timeframes. Over time, the urge to seek constant attention will gradually diminish, ultimately allowing them to break free from the repetitive cycle of emotional illusions and dependency.
-Fun Fact: This project is designed to be engaging and impactful! It will be available as both a web and mobile application, fully powered by cutting-edge AI technology.
+After successfully completing my capstone project CivicSafe an extension of emergency services in Bangladesh,
+developed entirely by myself — I am now working on my dream project: a transformative platform for individuals
+facing emotional challenges and attention-seeking tendencies. The core idea is to gently help users limit their
+need for external validation within specific timeframes. Over time, the urge to seek constant attention will
+gradually diminish, ultimately allowing them to break free from the repetitive cycle of emotional illusions and dependency.
+Fun Fact: This project is designed to be engaging and impactful! It will be available as both a web and mobile application,
+fully powered by cutting-edge AI technology.
 ```
 <br>
 <p align="center">
