@@ -9,18 +9,6 @@
  Solved 700+ problems on various coding platforms and proficient in C++, JavaScript, debugging, and Git.
  Passionate about problem-solving and learning new technologies.
 ```
-<h3>Current Focus</h3>
-<p>
-  I solve coding problems on a regular basis mostly on leetcode, gfg and I love building things using my coding skills. Anyway, 
-  after the successful completion of my capstone project <strong>CivicSafe</strong> — an extension of emergency services in Bangladesh, developed 
-  entirely by myself — I am now working on my dream project: a transformative platform for individuals facing emotional 
-  challenges and attention-seeking tendencies. The core idea is to gently help users limit their need for external validation 
-  within specific timeframes. Over time, the urge to seek constant attention will 
-  gradually diminish, ultimately allowing them to break free from the repetitive cycle of emotional illusions and dependency. 
-  This project is designed to be engaging and impactful! It will be available as both a web and mobile application, 
-  fully powered by cutting-edge AI technology.
-</p>
-
 <br>
 <p align="center">
   🌐 Check out my portfolio site: <a href="https://arnobbokshi.vercel.app/">arnobbokshi.vercel.app</a>
