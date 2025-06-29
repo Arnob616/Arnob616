@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hey Universe ! I’m Arnob Bokshi — crafting code & chasing creativity 🚀</h1>
 
 <h3 align="center">
-  Competitive Programmer | Software Developer | Tech Enthusiast
+  Problem solver | Software Developer | Tech Enthusiast
 </h3>
 
 ```
