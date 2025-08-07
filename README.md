@@ -10,9 +10,7 @@
  Passionate about problem-solving and learning new technologies.
 ```
 <br>
-<p align="center">
-  🌐 Check out my portfolio site: <a href="https://arnobbokshi.vercel.app/">arnobbokshi.vercel.app</a>
-</p>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Arnob616&color=blueviolet&style=flat" alt="Profile Views" />
   <a href="https://github.com/arnob1001">
