@@ -1,4 +1,4 @@
-give a fantastic look of it <h1 align="center">👋 Hey Universe ! I’m Arnob Bokshi — crafting code & chasing creativity 🚀</h1>
+ <h1 align="center">👋 Hey Universe ! I’m Arnob Bokshi — crafting code & chasing creativity 🚀</h1>
 
 <h3 align="center">
   Problem solver | Software Developer | Tech Enthusiast
